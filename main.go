@@ -12,7 +12,7 @@ import (
 	"syscall"
 )
 
-const etcService = "/etc/service"
+const etcService = "/etc/sv"
 
 var (
 	debugf = log.Printf
